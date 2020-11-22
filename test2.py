@@ -1,3 +1,2 @@
-class rule:
-  def __init__(self):
-    
+def search(self):
+    return true
